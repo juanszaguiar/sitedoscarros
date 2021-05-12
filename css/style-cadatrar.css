@@ -1,0 +1,56 @@
+body {
+    background: rgb(241,140,81);
+    background: radial-gradient(circle, rgba(241,140,81,1) 40%, rgba(132,131,228,1) 100%, rgba(22,213,238,1) 100%);
+}
+
+.titulo {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+}
+
+.voltar-site {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    padding: 0%;
+    margin-top: 480px;
+}
+
+.nome-cadastrar {
+    padding: 0%;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.email {
+    padding: 0%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.input-grande {
+    width: 300px;
+}
+
+.senha {
+    padding: 0%;
+    text-align: center;
+}
+
+.lembrar-login{
+    padding: 0%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.entrar-cadastrar {
+    padding: 0%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.voltar-site {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    padding: 0%;
+    margin-top: 265px;
+}

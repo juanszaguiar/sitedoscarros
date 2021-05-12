@@ -1,0 +1,71 @@
+body {
+    background: rgb(58,123,213);
+    background: linear-gradient(90deg, rgba(58,123,213,1) 0%, rgba(0,210,255,1) 35%, rgba(0,212,255,1) 100%);
+    
+}
+
+.gif {
+    text-align: center;
+    height: 35px;
+    border: none;
+}
+
+.botao-login {
+    text-align: right;
+    padding: 0%;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 90vw;
+}
+
+.botao-cadastrar {
+    text-align: right;
+    padding: 0%;
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 81vw;
+}
+
+.titulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: blue;
+    margin-bottom: 50px;
+    
+}
+
+.campo-pesquisa {
+    text-align: center;
+    border-radius: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    background: transparent;
+    border: none;
+}
+
+.botao-pesquisa {
+    background: transparent;
+    border: none;
+}
+
+.sub-titulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: coral;
+}
+
+.estilo-das-fotos {
+    text-align: center;
+    height: 150px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.botao-links {
+    cursor: pointer;
+    font-size: 45px;
+    margin-top: 325px;
+    text-align: center;
+}
+
+

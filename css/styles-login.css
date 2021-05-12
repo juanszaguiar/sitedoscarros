@@ -1,0 +1,43 @@
+body {
+    background: rgb(227,241,81);
+    background: radial-gradient(circle, rgba(227,241,81,1) 40%, rgba(131,228,154,1) 100%, rgba(22,213,238,1) 100%);
+}
+
+.titulo {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.email {
+    padding: 0%;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.senha {
+    padding: 0%;
+    text-align: center;
+}
+
+.input-grande {
+    width: 300px;
+}
+
+.lembrar-login{
+    padding: 0%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.entrar-login {
+    padding: 0%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.voltar-site {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    padding: 0%;
+    margin-top: 290px;
+}
